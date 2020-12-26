@@ -11,9 +11,10 @@ Building Token will be a vehicle for serving humanity and a reliable port for ea
 
 PROJECTS
 
-	In recent times when we have entered irreversible paths such as environmental pollution, consumption of natural resources, global warming and thirst, which are the growing problems of the developing world; the building sector brought up the construction of environmentally friendly buildings. The interest of environmentally conscious people in this issue has led to the emergence of structures called “green buildings”. Green buildings that are respectful to nature, ecological, reducing energy consumption and at the same time providing the comfort desired from a classic building have gained a solid place in the construction sector all over the world. While determining the standards for green buildings; Topics such as the selection of the land where the building will be located, its design, innovation, the characteristics of the building materials to be used in the structure of the building, the construction technique of the structure, what to do to reuse the waste materials generated are dealt with sensitively.
-  
-	Benefits of Green Building
+In recent times when we have entered irreversible paths such as environmental pollution, consumption of natural resources, global warming and thirst, which are the growing problems of the developing world; the building sector brought up the construction of environmentally friendly buildings. The interest of environmentally conscious people in this issue has led to the emergence of structures called “green buildings”. Green buildings that are respectful to nature, ecological, reducing energy consumption and at the same time providing the comfort desired from a classic building have gained a solid place in the construction sector all over the world. While determining the standards for green buildings; Topics such as the selection of the land where the building will be located, its design, innovation, the characteristics of the building materials to be used in the structure of the building, the construction technique of the structure, what to do to reuse the waste materials generated are dealt with sensitively.
+	
+Benefits of Green Building;
+
 	
 - It adds value to city life.
 - Increases the quality of buildings.
@@ -49,7 +50,7 @@ The small house movement is the social movement that started to develop in weste
 
 Why was the Building Token (BIN) generated?
 
-	The BIN token runs on the Ethereum network. Your investments made with Smart Contracts will be supported. It is not easy to invest in different countries around the world and make a profit from this investment, and time is one of the most important factors in this regard. In addition, the difficulty of making the investment in cash or banking makes the job quite troublesome in the procedure.
+The BIN token runs on the Ethereum network. Your investments made with Smart Contracts will be supported. It is not easy to invest in different countries around the world and make a profit from this investment, and time is one of the most important factors in this regard. In addition, the difficulty of making the investment in cash or banking makes the job quite troublesome in the procedure.
 Besides, the most important thing is reliability. BIN token will be a fast and reliable tool for the payment method as well as a fast and reliable tool for the investor in dividend distribution. The Roadmap will be explained in more detail, but in the future, there will be great advantages to owning BIN tokens. For example; The advantage of using affordable rooms in Tiny houses and renting the houses produced will be more convenient with BIN tokens at a certain percentage.
 What are the revenue models for building Token (BUILDING) value increase?
 
