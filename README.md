@@ -1,5 +1,5 @@
-# BIN
-BIN is Buildin's token
+# BIN and BINB
+BIN and BINB are Buildin's token
 WHAT IS BUILDIN ?
 
 Buildin offers people living spaces. LIFE fields have wider and more definitions if they have all kinds of closed writings. Life contains nature within it. Since the first day, humanity has always had a need for shelter. The continuity of development has given us today’s living spaces. Living spaces, whose production continues all the time, such as apartments, residences, villas, detached houses, wooden houses, and kiosks, are developing and increasing as a model day by day. Border and space are the most important terms of these areas. It is the limit. The border is glass. The border is the color difference in the floor covering. The limit is emotion. All death makes up the brain. We have happy and safe people in solid volumes, there are also people outside of their own living space between the sea and sand. The questioning process of humanity has been going on for years, the desire to reach prosperity and the best leads to creative ideas and productions. 
